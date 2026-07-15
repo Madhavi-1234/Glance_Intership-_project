@@ -358,6 +358,7 @@ Train the hybrid CLIP classifier.
 Evaluate model performance on unseen images.
 
 ---
+## Sample prediction outputs with the input image, predicted style, and generated description are included below for demonstration.( folder called Demo Outputs)
 
 # 🔮 Future Improvements
 
