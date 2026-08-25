@@ -22,16 +22,16 @@ This project builds a fashion style classification pipeline that:
 
 # ✨ Key Features
 
--✅ Fashion image style classification
--✅ CLIP-based zero-shot prediction
--✅ Multiple text prompts per style category
--✅ Custom fashion style label mapping
--✅ Exploratory Data Analysis (EDA)
--✅ Dataset balancing for improved learning
--✅ Transfer learning using CLIP Vision Encoder
--✅ PyTorch training pipeline
--✅ Model evaluation and testing
--✅ User profile builder for future personalization
+- ✅ Fashion image style classification
+- ✅ CLIP-based zero-shot prediction
+- ✅ Multiple text prompts per style category
+- ✅ Custom fashion style label mapping
+- ✅ Exploratory Data Analysis (EDA)
+- ✅ Dataset balancing for improved learning
+- ✅ Transfer learning using CLIP Vision Encoder
+- ✅ PyTorch training pipeline
+- ✅ Model evaluation and testing
+- ✅ User profile builder for future personalization
 
 ---
 
